@@ -1,8 +1,8 @@
 # CWAR Token Staking
 
-Staking pool based on [Scalable Reward Distribution On The Ethereum Blockchain](https://uploads-ssl.webflow.com/5ad71ffeb79acc67c8bcdaba/5ad8d1193a40977462982470_scalable-reward-distribution-paper.pdf)
+Staking pool based on [Scalable Reward Distribution On The Ethereum Blockchain](https://raw.githubusercontent.com/DeltaMichael/cwar-staking-program/master/scalable-reward-distribution-paper.pdf)
 
-[Audit report by SmartState](https://www.google.com)
+[Audit report by SmartState](https://raw.githubusercontent.com/DeltaMichael/cwar-staking-program/master/smartstate-audit-report.pdf)
 
 # Build Solana Program (compiled for BPF)
 Run the following from the program/ subdirectory:
