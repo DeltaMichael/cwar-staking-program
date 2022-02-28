@@ -1,0 +1,14 @@
+/program/*-dump.txt
+/program/*.so
+/program/target/
+/program/*.lock
+/program/payer-keypair.json
+/program/program-keypair.json
+/program/test-ledger
+/program/admin-keypair.json
+/program/build/
+/program/node_modules/
+/program/package-lock.json
+/program/interface/build/
+/program/interface/node_modules/
+/program/interface/package-lock.json
